@@ -71,7 +71,7 @@ public class Main {
         System.out.println("Введите количество сообщений");
         int messages = scanner.nextInt();
         System.out.println("Привет, " + name + "! Это твой помощник " + assistant + ".");
-        System.out.print("У тебя " + messages + " новых писем.");
+        System.out.print("У тебя " + messages + " новых писем. ");
     }
 }
 
